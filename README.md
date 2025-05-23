@@ -8,7 +8,9 @@
 
 I'm a data analytics student with a foundation in Quality Assurance and training. My passion lies in bringing clarity and structure to complex information - turning data into actionable insights with precision and purpose.
 
-Currently, I'm expanding my toolkit with **SQL**, **Python**, and **Tableau** to take my analytics skills to the next level. My goal? To help businesses make smarter decisions through accuracy, structured thinking, and thoughtful analysis.
+Currently, I'm upskilling at ALX Africa, the Data Analytics Program
+expanding my toolkit with **SQL**, **Python**, and **Tableau** to take my analytics skills to the next level.
+My goal is to support businesses in making smarter decisions through accuracy, structured thinking, and thoughtful analysis.
 
 ---
 
@@ -37,4 +39,4 @@ Currently, I'm expanding my toolkit with **SQL**, **Python**, and **Tableau** to
 
 ---
 
-I’m always open to connect with fellow learners, data enthusiasts, and mentors. Let’s explore the world of data together!
+I’m open to connect with the big data world, learners and mentors. Time to explooore!
