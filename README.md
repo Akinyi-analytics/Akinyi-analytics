@@ -31,7 +31,7 @@ Currently, I'm expanding my toolkit with **SQL**, **Python**, and **Tableau** to
 
 ✨ **A Little More About Me**
 
-- 🎾 Used to play lawn tennis—love the strategy and movement!
+- 🎾 Used to play lawn tennis - love the strategy and movement!
 - 📖 Enjoy telling Bible stories for impact and inspiration
 - 🧵 Can stitch & crochet (handmade creativity is my therapy!)
 
