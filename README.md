@@ -6,7 +6,7 @@
 
 🌱 **About Me**
 
-I'm a data analytics student with a foundation in Quality Assurance and training. My passion lies in bringing clarity and structure to complex information—turning data into actionable insights with precision and purpose.
+I'm a data analytics student with a foundation in Quality Assurance and training. My passion lies in bringing clarity and structure to complex information - turning data into actionable insights with precision and purpose.
 
 Currently, I'm expanding my toolkit with **SQL**, **Python**, and **Tableau** to take my analytics skills to the next level. My goal? To help businesses make smarter decisions through accuracy, structured thinking, and thoughtful analysis.
 
