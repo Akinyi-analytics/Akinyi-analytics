@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Noel Akinyi!
 
-**Aspiring Data Analyst | Quality Assurance Enthusiast | Systems Thinker**
+**Data Analyst | soon_to_be_Data Scientist | Systems Thinker**
 
 ---
 
 🌱 **About Me**
 
-I'm a data analytics student with a foundation in Quality Assurance and training. My passion lies in bringing clarity and structure to complex information - turning data into actionable insights with precision and purpose.
+I'm a Data Science student with a foundation in Quality Assurance and training. My passion lies in bringing clarity and structure to complex information - turning data into actionable insights with precision and purpose.
 
-Currently, I'm upskilling at ALX Africa, the Data Analytics Program
-expanding my toolkit with **SQL**, **Python**, and **Tableau** to take my analytics skills to the next level.
+Currently, I'm upskilling at ALX Africa, the Data Science Program
+expanding my toolkit with **SQL**, **Python**, **Tableau**, **Machine Learning**, and **Statistics** to take my analytics skills to the next big level.
 My goal is to support businesses in making smarter decisions through accuracy, structured thinking, and thoughtful analysis.
 
 ---
 
-🛠️ **Top Skills**
+**Top Skills**
 - **Excel** wizardry for data wrangling and storytelling
 - **Data visualisation** that makes insights pop
 - **Data cleaning & preparation** for reliable outcomes
@@ -31,7 +31,7 @@ My goal is to support businesses in making smarter decisions through accuracy, s
 
 ---
 
-✨ **A Little More About Me**
+ **A Little More About Me**
 
 - 🎾 Used to play lawn tennis - love the strategy and movement!
 - 📖 Enjoy telling Bible stories for impact and inspiration
@@ -39,4 +39,4 @@ My goal is to support businesses in making smarter decisions through accuracy, s
 
 ---
 
-I’m open to connect with the big data world, learners and mentors. Time to explooore!
+I’m open to connect for projects in ecommerce, & with the big data world, learners and mentors. Time to explooore!
